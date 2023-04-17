@@ -1,7 +1,0 @@
-package com.javalec.base;
-
-public class nation {
-public static void main(String[] args) {
-	System.out.println("자바깔았다");
-}
-}
