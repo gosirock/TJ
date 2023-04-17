@@ -1,0 +1,12 @@
+package com.javalec.base;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("깃허브 연결 했어~");
+	}
+
+}
